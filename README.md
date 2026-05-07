@@ -192,8 +192,6 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 
 > 18+ years across enterprise and high-growth product. Below are the roles, the companies, and how long I stayed.
 
-> **A note on the founder rows:** *Xstep, Carely.au, and Vidory.ai are my own ventures. They're how I keep my hands dirty, ship product, and stay current on AI. **My main engagement gets my full focus** — ventures run on evenings/weekends and don't split attention from the day job.*
-
 | Role | Company | Years | Duration |
 |---|---|---|---|
 | Engineering Lead, International Launch | **Omaze** | 2024 — present | 2y+ |
@@ -202,12 +200,14 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 | UI Tech Lead | **Westpac** | 2022 — 2023 | 9 mo |
 | Full Stack Tech Lead | **Optus** | 2022 | 6 mo |
 | VP of Engineering | **Nstep** | 2021 — 2022 | 7 mo |
-| Founder · AI consultancy *(vehicle for senior contract work)* | **Xstep** | 2021 — present | 4y+ |
+| Founder · AI consultancy | **Xstep** | 2021 — present | 4y+ |
 | Head of Engineering | **LJ Hooker** | 2018 — 2021 | 3y 9mo |
 | Full Stack Tech Lead | **Qantas (Innovation Lab)** | 2017 — 2018 | 1y |
 | Tech Lead | **Ansarada** | 2012 — 2016 | 4y |
 | Senior Engineer | **Sinclair Knight Merz (SKM)** | 2010 — 2012 | 2y 7mo |
 | Software Engineer | **Global Gossip** | 2007 — 2010 | 3y |
+
+> **A note on the founder rows:** *Xstep, Carely.au, and Vidory.ai are my own ventures. They're how I keep my hands dirty, ship product, and stay current on AI. **My main engagement gets my full focus** — ventures run on evenings/weekends and don't split attention from the day job.*
 
 ---
 
