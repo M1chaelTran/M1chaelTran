@@ -2,10 +2,8 @@
   <img src="assets/banner.png" alt="Michael Tran — Engineering Leader · Founder · AI"/>
 </p>
 
-<h1 align="center">Hi, I'm Michael 👋</h1>
-
 <p align="center">
-  Engineering leader · Founder · Sydney → working globally<br/>
+  Sydney → working globally<br/>
   <em>I launch markets and embed AI into how teams ship.</em>
 </p>
 
