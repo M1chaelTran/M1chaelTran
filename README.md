@@ -85,9 +85,9 @@ Senior contract engineering and bespoke AI builds for clients. Architecture, del
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 AI in delivery — Omaze internal programme
+#### 🧠 AI in delivery — in-house programme
 **Role** &nbsp;Programme lead
-**Audience** &nbsp;UK engineering team
+**Audience** &nbsp;In-house engineering team
 
 Designed and ran workshops on AI-assisted delivery — identity-coding, agentic workflows, day-to-day tooling. Goal isn't "use ChatGPT more"; it's making AI a load-bearing part of how engineers ship.
 
