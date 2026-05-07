@@ -219,12 +219,16 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 
 ---
 
-### 📊 Stats
+### What I'm thinking about right now
 
-<p align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M1chaelTran&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&theme=transparent&count_private=true"/>
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1chaelTran&layout=compact&hide_border=true&title_color=0A66C2&theme=transparent&langs_count=8"/>
-</p>
+```text
+🎵  Vidory.ai                  →  AI media studio. First product live: Giftune — personalised AI songs as gifts.
+🤖  Enterprise AI workforce    →  active R&D on agentic systems that carry real engineering load, not just tool calls.
+🏥  Carely.au                  →  growing the NDIS-sector platform under AutoLegen.
+🎓  Omaze AI programme         →  ongoing workshops on AI-assisted delivery for the UK engineering team.
+```
+
+**Currently curious about:** *how to turn stories into engaging long-form video content* — the pipeline from narrative → storyboard → motion → finished asset, and where AI actually earns its keep along the way.
 
 ---
 
