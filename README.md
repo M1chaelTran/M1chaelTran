@@ -228,6 +228,8 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 🎓  Omaze AI programme         →  ongoing workshops on AI-assisted delivery for the UK engineering team.
 ```
 
+**Try Giftune →** [**giftune.vidory.ai**](https://giftune.vidory.ai) &nbsp; *(make a personalised AI song in a couple of minutes — best way to see how I think about consumer AI)*
+
 **Currently curious about:** *how to turn stories into engaging long-form video content* — the pipeline from narrative → storyboard → motion → finished asset, and where AI actually earns its keep along the way.
 
 ---
