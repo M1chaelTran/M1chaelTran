@@ -195,12 +195,12 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 | Role | Company | Years | Duration |
 |---|---|---|---|
 | Engineering Lead, International Launch | **Omaze** | 2024 — present | 2y+ |
-| Founder & Director · AI consultancy | **Xstep** | 2021 — present | 4y+ |
-| Founder & Director · NDIS automation | **Carely.au** | 2023 — present | 3y+ |
 | Engineering Manager | **A2B Australia** | 2023 — 2024 | 8 mo |
+| Founder & Director · NDIS automation | **Carely.au** | 2023 — present | 3y+ |
 | UI Tech Lead | **Westpac** | 2022 — 2023 | 9 mo |
-| VP of Engineering | **Nstep** | 2021 — 2022 | 7 mo |
 | Full Stack Tech Lead | **Optus** | 2022 | 6 mo |
+| VP of Engineering | **Nstep** | 2021 — 2022 | 7 mo |
+| Founder & Director · AI consultancy | **Xstep** | 2021 — present | 4y+ |
 | Head of Engineering | **LJ Hooker** | 2018 — 2021 | 3y 9mo |
 | Full Stack Tech Lead | **Qantas (Innovation Lab)** | 2017 — 2018 | 1y |
 | Tech Lead | **Ansarada** | 2012 — 2016 | 4y |
