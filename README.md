@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Michael Tran — Engineering Leader · Founder · AI" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
