@@ -225,7 +225,7 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
 🎵  Vidory.ai                  →  AI media studio. First product live: Giftune — personalised AI songs as gifts.
 🤖  Enterprise AI workforce    →  active R&D on agentic systems that carry real engineering load, not just tool calls.
 🏥  Carely.au                  →  growing the NDIS-sector platform under AutoLegen.
-🎓  Omaze AI programme         →  ongoing workshops on AI-assisted delivery for the UK engineering team.
+🎓  AI delivery programme      →  running workshops on AI-assisted delivery for an in-house engineering team.
 ```
 
 **Try Giftune →** [**giftune.vidory.ai**](https://giftune.vidory.ai) &nbsp; *(make a personalised AI song in a couple of minutes — best way to see how I think about consumer AI)*
