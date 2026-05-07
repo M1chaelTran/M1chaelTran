@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Michael Tran — Engineering Leader · Founder · AI" width="900" height="190"/>
+  <img src="assets/banner.png" alt="Michael Tran — Engineering Leader · Founder · AI"/>
 </p>
 
 <h1 align="center">Hi, I'm Michael 👋</h1>
