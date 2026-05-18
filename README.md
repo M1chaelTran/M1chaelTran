@@ -145,7 +145,7 @@ I won't pretend to actively use everything below in any given month — but ever
 | Engineering Manager | **A2B Australia** | 2023 — 2024 |
 | Founder · NDIS automation *(side)* | **Carely.au** | 2023 — present |
 | UI Tech Lead | **Westpac** | 2022 — 2023 |
-| Full Stack Tech Lead | **Optus** | 2022 |
+| Full Stack Tech Lead | **Optus** | Jun 2022 — Nov 2022 |
 | Founder · Nearshore engineering *(exited)* | **Nstep** | 2021 — 2022 |
 | Founder · Consulting | **Xstep** | 2021 — present |
 | Head of Engineering | **LJ Hooker** | 2018 — 2021 |
