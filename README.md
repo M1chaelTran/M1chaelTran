@@ -1,103 +1,61 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Michael Tran — Engineering Leader · Founder · AI"/>
+  <img src="assets/banner.png" alt="Michael Tran"/>
 </p>
 
 <p align="center">
-  Sydney → working globally<br/>
-  <em>I help engineering teams launch, ship, and embed AI — without the usual hiring risk.</em>
+  <em>Engineer, 18 years in. Currently leading engineering at Omaze. Sydney, working globally.</em>
 </p>
 
 <p align="center">
   <a href="mailto:michael@xstep.au"><img alt="Email" src="https://img.shields.io/badge/email-michael%40xstep.au-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/m1chaeltran"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-m1chaeltran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://carely.au"><img alt="Carely" src="https://img.shields.io/badge/carely.au-2BA84A?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
 
 ---
 
-### The problem you're probably here to solve
+### Hi 👋
 
-You need to **launch a product into a new market**, **scale an engineering team that's stuck**, or **get AI properly embedded** into how your team ships. The roadmap is real, the timeline is unreasonable, and most of the senior leaders you've interviewed can do *one* of those — not all three.
+> *You probably came here from my CV or LinkedIn. Fair — here's the unvarnished version.*
 
-Hiring wrong is expensive: lost quarters, missed launches, a team that loses faith in the next leader you bring in. Hiring slow is just as bad.
+I'm Michael. Engineering Lead at **Omaze** for the last two years — shipped the German market in under three months on a two-engineer team plus a Shopify agency, and the platform's still mine to feed. The day-to-day is Shopify + AWS Lambda + Node/TS, with a fair bit of Go and the usual integrations zoo (Stripe, Recharge, KYC providers, PostHog).
 
-You don't need another generic engineering leader. You need someone who has done this exact shape of problem before, can come in lean, and won't fold when the integrations get messy.
+I know the shape of the problem that probably brought you here. A messy multi-platform stack, fragmented data, a team that's been promised AI-something for two quarters running, and a launch date someone in marketing already committed to. I've been the engineer in that seat enough times to know what helps and what doesn't — and what I won't pretend to. That's the thing I'm useful for.
 
-That's where I come in.
+Before Omaze: Engineering Manager at A2B, UI Tech Lead at Westpac, sole engineer on a feature at Optus, Head of Engineering at LJ Hooker for nearly four years (also the first engineering hire there). Further back, four years as Tech Lead at Ansarada on the .NET / ASP.NET MVC migration of a high-security M&A data room.
 
----
+I also run **Xstep**, my consulting vehicle — it's how the Omaze engagement is structured, and how I take on other client work alongside it.
 
-### What you get when you work with me
+I keep some side projects to stay sharp:
 
-I'm an engineering leader and founder who **launches markets, ships product on lean teams, and embeds AI into how engineering orgs work** — backed by 18+ years across enterprise (Westpac, Optus, Qantas, LJ Hooker, Ansarada) and high-growth product environments.
-
-The pattern: I get brought in when something needs to ship, the team is lean, and the integrations are messy.
-
-Right now I'm leading engineering for **Omaze's international launch programme** — I delivered the German market end-to-end **in under 3 months** on a 2-person internal team plus a Shopify agency, owning architecture, integrations, and delivery. Alongside that, I run **Xstep** (AI consultancy) and **Carely.au** (NDIS expansion of AutoLegen).
+- **Carely.au** — NDIS automation. The AutoLeGen playbook applied to a regulated care market.
+- **Vidory.ai** — personal R&D on AI media. Quiet for now.
 
 ---
 
-### The plan — how working together usually goes
+### What I'm thinking about lately
 
 ```text
-1.  We talk             →  30 minutes. You describe the problem; I tell you honestly if I'm the right person.
-2.  Scope the engagement →  Contract, fractional leadership, or full-time. We pick what fits.
-3.  I land lean          →  Day one I'm reading code, talking to your team, mapping vendors and risks.
-4.  We ship              →  First measurable win in weeks, not quarters. Real outcomes, not slideware.
-5.  AI gets embedded     →  Workshops + working sessions so your team ships faster long after I'm gone.
+🤖  Agentic systems that carry real engineering load (not tool calls dressed up as agents).
+🧩  Consolidating multi-platform stacks so AI gets to do real work, not slideware.
+🎓  Productising AI-delivery workshops — identity-coding, agentic workflows, eval discipline.
+📺  Narrative → storyboard → motion: where AI actually earns its keep in long-form video.
+🏥  Carely.au — growing the NDIS platform.
 ```
 
 ---
 
-### Selected work — proof, not promises
+### How I work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌍 Omaze — European launch
-**Role** &nbsp;Engineering Lead, International Launch
-**Team** &nbsp;2 internal + Shopify agency
-**Result** &nbsp;Live market in <3 months
-
-End-to-end engineering for a UK fundraising platform's expansion into a new European market. Shopify front-end wired into AWS Lambda / Node.js draw + fulfilment, KYC, Stripe, Recharge, PostHog. Took a second market to near-launch before the regional rollout was paused.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 Carely.au — NDIS automation
-**Role** &nbsp;Founder & builder
-**Stage** &nbsp;Live, growing
-
-A dedicated NDIS-sector platform applying an AI-automation playbook to a regulated care market. Built end-to-end from positioning through product.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛠️ Xstep — AI consultancy
-**Role** &nbsp;Founder & director
-**Focus** &nbsp;Senior engineering & AI delivery
-
-Senior contract engineering and bespoke AI builds for clients. Architecture, delivery, and small offshore/onshore teams for AI-led web, automation, and data-integration work.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 AI in delivery — in-house programme
-**Role** &nbsp;Programme lead
-**Audience** &nbsp;In-house engineering team
-
-Designed and ran workshops on AI-assisted delivery — identity-coding, agentic workflows, day-to-day tooling. Goal isn't "use ChatGPT more"; it's making AI a load-bearing part of how engineers ship.
-
-</td>
-</tr>
-</table>
+I read your code, I don't just review it.
+The fun engineering happens at the seams — Shopify ↔ ERP, identity ↔ payments, ETL ↔ ML. That's where I'm most useful.
+I'm fluent across the modern AI agentic stack (LangGraph, RAG, evals) but I'd rather argue about eval design than vibe-coding.
+Lean teams. Small SOWs. Ship, learn, then the next one.
 
 ---
 
-### ⚛️ Stack I work with
+### Stack
+
+I won't pretend to actively use everything below in any given month — but everything here is something I've shipped to production at some point in the last 18 years.
 
 **Languages**
 <p>
@@ -107,7 +65,6 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
@@ -139,8 +96,6 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 
 **Cloud & infra**
@@ -180,72 +135,29 @@ Designed and ran workshops on AI-assisted delivery — identity-coding, agentic 
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
-**Testing & quality**
-<p>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img alt="Bamboo" src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=bamboo&logoColor=white"/>
-</p>
+---
+
+### Where I've been
+
+| Role | Company | Years |
+|---|---|---|
+| Engineering Lead, International Launch | **Omaze** | 2024 — present |
+| Engineering Manager | **A2B Australia** | 2023 — 2024 |
+| Founder · NDIS automation *(side)* | **Carely.au** | 2023 — present |
+| UI Tech Lead | **Westpac** | 2022 — 2023 |
+| Full Stack Tech Lead | **Optus** | 2022 |
+| Founder · Nearshore engineering *(exited)* | **Nstep** | 2021 — 2022 |
+| Founder · Consulting | **Xstep** | 2021 — present |
+| Head of Engineering | **LJ Hooker** | 2018 — 2021 |
+| Full Stack Tech Lead | **Qantas (Innovation Lab)** | 2017 — 2018 |
+| Tech Lead | **Ansarada** | 2012 — 2016 |
+| Senior Engineer | **Sinclair Knight Merz (SKM)** | 2010 — 2012 |
+| Software Engineer | **Global Gossip** | 2007 — 2010 |
 
 ---
 
-### Track record
+### Get in touch
 
-> 18+ years across enterprise and high-growth product. Below are the roles, the companies, and how long I stayed.
+Email is fastest: **[michael@xstep.au](mailto:michael@xstep.au)** — usually within a business day. Happy to chat about engineering, agentic systems, market launches, or anything else that's interesting. If you're hiring or have a piece of work in mind, just say so in the first line.
 
-| Role | Company | Years | Duration |
-|---|---|---|---|
-| Engineering Lead, International Launch | **Omaze** | 2024 — present | 2y+ |
-| Engineering Manager | **A2B Australia** | 2023 — 2024 | 8 mo |
-| Founder · NDIS automation *(venture)* | **Carely.au** | 2023 — present | 3y+ |
-| UI Tech Lead | **Westpac** | 2022 — 2023 | 9 mo |
-| Full Stack Tech Lead | **Optus** | 2022 | 6 mo |
-| Founder · Nearshore engineering *(exited)* | **Nstep** | 2021 — 2022 | 7 mo |
-| Founder · AI consultancy | **Xstep** | 2021 — present | 4y+ |
-| Head of Engineering | **LJ Hooker** | 2018 — 2021 | 3y 9mo |
-| Full Stack Tech Lead | **Qantas (Innovation Lab)** | 2017 — 2018 | 1y |
-| Tech Lead | **Ansarada** | 2012 — 2016 | 4y |
-| Senior Engineer | **Sinclair Knight Merz (SKM)** | 2010 — 2012 | 2y 7mo |
-| Software Engineer | **Global Gossip** | 2007 — 2010 | 3y |
-
-> **A note on the founder rows:** *Nstep (exited), Xstep, Carely.au, and Vidory.ai are my own ventures. They're how I keep my hands dirty, ship product, and stay current on AI. **My main engagement gets my full focus** — ventures run on evenings/weekends and don't split attention from the day job.*
-
----
-
-### Why teams hire me
-
-- 🚀 **I ship.** End-to-end market launches under real timeline pressure — not slideware.
-- 🛠️ **I'm hands-on across the stack.** Shopify, AWS, Node / TS, React / Next, Stripe, Recharge, n8n, PostHog. I read your code, I don't just review it.
-- 🧠 **I make AI a load-bearing part of how your team works.** Workshops, identity-coding, agentic workflows — not a Slack channel full of ChatGPT screenshots.
-- 🤝 **I orchestrate vendors and agencies** so your internal team stays small and focused.
-- 🌱 **I own outcomes**, not tickets. Founder/operator instincts, hired-gun discipline.
-
----
-
-### What I'm thinking about right now
-
-```text
-🎵  Vidory.ai                  →  AI media studio. First product live: Giftune — personalised AI songs as gifts.
-🤖  Enterprise AI workforce    →  active R&D on agentic systems that carry real engineering load, not just tool calls.
-🏥  Carely.au                  →  growing the NDIS-sector platform under AutoLegen.
-🎓  AI delivery programme      →  running workshops on AI-assisted delivery for an in-house engineering team.
-```
-
-**Try Giftune →** [**giftune.vidory.ai**](https://giftune.vidory.ai) &nbsp; *(make a personalised AI song in a couple of minutes — best way to see how I think about consumer AI)*
-
-**Currently curious about:** *how to turn stories into engaging long-form video content* — the pipeline from narrative → storyboard → motion → finished asset, and where AI actually earns its keep along the way.
-
----
-
-### Let's talk
-
-If you're a **CTO or founder** scaling a team, launching into a new market, or trying to get AI properly embedded into how your engineers ship — let's have a 30-minute conversation. If I'm not the right fit, I'll tell you, and probably point you to someone who is.
-
-If you're a **recruiter** with a senior engineering or AI leadership brief — Head of Engineering, VP Engineering, Head of AI, founding engineer, 0→1 launch — the quick facts are below. Email is fastest.
-
-**Quick facts**
-- **Based:** Sydney, Australia · Australian citizen, no sponsorship needed
-- **Mode:** Remote-first; happy to flex hours for UK / EU / US overlap
-- **Open to:** senior contract engagements (preferred) or the right full-time leadership role
-- **Reachable at:** [michael@xstep.au](mailto:michael@xstep.au) — usually within a business day
-
-📧 **[michael@xstep.au](mailto:michael@xstep.au)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/m1chaeltran)** &nbsp;·&nbsp; 🏥 **[carely.au](https://carely.au)**
+📧 **[michael@xstep.au](mailto:michael@xstep.au)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/m1chaeltran)**
